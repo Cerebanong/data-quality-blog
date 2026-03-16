@@ -3,7 +3,7 @@ title: Where Data Quality Issues Come From
 slug: where-data-quality-issues-come-from
 pillar: when-data-goes-wrong
 author: Kevin L Frank
-date_published: ''
+date_published: '2026-03-06'
 tags:
 - foundations
 - root-causes

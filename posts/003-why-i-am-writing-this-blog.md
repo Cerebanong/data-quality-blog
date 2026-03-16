@@ -3,7 +3,7 @@ title: Why I Am Writing This Blog
 slug: why-i-am-writing-this-blog
 pillar: strategy-leadership
 author: Kevin L Frank
-date_published: ''
+date_published: '2026-03-06'
 tags:
 - foundations
 - about-the-author

@@ -8,10 +8,10 @@ Read the full blog at [https://macroqualitytools.com/blog](https://macroqualityt
 
 | # | Title | Pillar | Published |
 |---|-------|--------|-----------|
-| 001 | [What Is Data Quality and Why Should You Care?](https://macroqualitytools.com/blog/what-is-data-quality-and-why-should-you-care) | Strategy & Leadership | — |
-| 002 | [The True Cost of Bad Data](https://macroqualitytools.com/blog/the-true-cost-of-bad-data) | Strategy & Leadership | — |
-| 003 | [Why I Am Writing This Blog](https://macroqualitytools.com/blog/why-i-am-writing-this-blog) | Strategy & Leadership | — |
-| 004 | [Where Data Quality Issues Come From](https://macroqualitytools.com/blog/where-data-quality-issues-come-from) | When Data Goes Wrong | — |
+| 001 | [What Is Data Quality and Why Should You Care?](https://macroqualitytools.com/blog/what-is-data-quality-and-why-should-you-care) | Strategy & Leadership | 2026-03-06 |
+| 002 | [The True Cost of Bad Data](https://macroqualitytools.com/blog/the-true-cost-of-bad-data) | Strategy & Leadership | 2026-03-06 |
+| 003 | [Why I Am Writing This Blog](https://macroqualitytools.com/blog/why-i-am-writing-this-blog) | Strategy & Leadership | 2026-03-06 |
+| 004 | [Where Data Quality Issues Come From](https://macroqualitytools.com/blog/where-data-quality-issues-come-from) | When Data Goes Wrong | 2026-03-06 |
 | 005 | [The 6 Dimensions of Data Quality](https://macroqualitytools.com/blog/the-6-dimensions-of-data-quality) | Understanding Your Data | 2026-03-15 |
 | 006 | [What Is Data Governance?](https://macroqualitytools.com/blog/what-is-data-governance) | Governance in Practice | 2026-03-15 |
 | 007 | [Gartner's 2026 Data & Analytics Summit: What Actually Matters for Data Leaders](https://macroqualitytools.com/blog/gartner-2026-data-analytics-summit-key-takeaways) | Strategy & Leadership | 2026-03-15 |

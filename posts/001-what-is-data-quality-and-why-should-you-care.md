@@ -3,7 +3,7 @@ title: What Is Data Quality and Why Should You Care?
 slug: what-is-data-quality-and-why-should-you-care
 pillar: strategy-leadership
 author: Kevin L Frank
-date_published: ''
+date_published: '2026-03-06'
 tags:
 - foundations
 - data-governance
