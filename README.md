@@ -19,6 +19,7 @@ See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for what makes each post's perspective 
 | 007 | [Gartner's 2026 Data & Analytics Summit: What Actually Matters for Data Leaders](https://macroqualitytools.com/blog/gartner-2026-data-analytics-summit-key-takeaways) | Strategy & Leadership | 2026-03-15 |
 | 008 | [AI Didn't Replace Data Quality. It Raised the Bar.](https://macroqualitytools.com/blog/gartner-2026-data-quality-in-the-age-of-ai) | Understanding Your Data | 2026-03-15 |
 | 009 | [The Two Types of Garbage In, Garbage Out](https://macroqualitytools.com/blog/gigo-garbage-in-garbage-out) | When Data Goes Wrong | 2026-03-16 |
+| 010 | [What Makes Data Good?](https://macroqualitytools.com/blog/what-makes-data-good) | Understanding Your Data | 2026-03-18 |
 
 ## About
 
@@ -28,4 +29,4 @@ This blog explores practical data quality topics — from foundational concepts 
 
 Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt with attribution.
 
-*Last updated: 2026-03-16*
+*Last updated: 2026-03-18*
