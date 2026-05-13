@@ -21,6 +21,7 @@ See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for what makes each post's perspective 
 | 009 | [The Two Types of Garbage In, Garbage Out](https://macroqualitytools.com/blog/gigo-garbage-in-garbage-out) | When Data Goes Wrong | 2026-03-16 |
 | 010 | [What Makes Data Good?](https://macroqualitytools.com/blog/what-makes-data-good) | Understanding Your Data | 2026-03-18 |
 | 011 | [Champions, Owners, and Stewards -- The Three Roles That Make or Break Data Governance](https://macroqualitytools.com/blog/data-stewards-and-data-owners) | Governance in Practice | 2026-03-19 |
+| 029 | [Treating Agent Behavior as a First-Class Data Domain in the Databricks Lakehouse](https://macroqualitytools.com/blog/agent-observability-in-databricks) | ai-data-quality | 2026-05-12 |
 
 ## About
 
@@ -30,4 +31,4 @@ This blog explores practical data quality topics — from foundational concepts 
 
 Content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt with attribution.
 
-*Last updated: 2026-03-19*
+*Last updated: 2026-05-12*
